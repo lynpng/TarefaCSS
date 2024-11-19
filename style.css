@@ -15,4 +15,10 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 }
 .quadradocomida{
     
+    height: 272px;
+background-color: black;
+}
+Comida{
+width: 100%;
+height: 272px;
 }
