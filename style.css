@@ -18,6 +18,7 @@
 
 .apresenedata{
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: bisque;
 }
 
 .quadradocomida{
@@ -38,4 +39,20 @@ height: 207px;
 #conteiner{
 margin-left: 50px;
 width: 100%;
+}
+.quadradoserie{
+    background-color: black;
+    padding: 35px;
+    width: 68%;
+}
+.serie{
+width: 249px;
+height: 207px;
+}
+.footer {
+    background-color: #000000;
+    text-align: center;
+    padding: 30px 0;
+    width: 100%;
+    border-top: 1px solid #ddd; 
 }
